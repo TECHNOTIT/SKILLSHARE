@@ -1,9 +1,3 @@
-﻿# Skillshare-DL
-
-<h4>📝 Note: Downloader core is not written by me. I found this python downloader from a forum. I did few modification to code then implemented it into colab. all credit goes to original python script dev.</h4>
-
-<hr>
-
 ## Usage:
 
 <a href="https://colab.research.google.com/github/TECHNOTIT/SKILLSHARE/blob/main/TECHNOTIT_SKILLSHARE.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
